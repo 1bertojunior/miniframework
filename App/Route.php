@@ -14,12 +14,6 @@
                 'action' => 'index'
             );
 
-            $routes['agendamento'] = array(
-                'route' => '/agendamento',
-                'controller' => 'indexController',
-                'action' => 'agendamento'
-            );
-
             $routes['admin'] = array(
                 'route' => '/admin',
                 'controller' => 'adminController',
