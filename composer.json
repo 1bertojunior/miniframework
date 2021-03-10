@@ -1,0 +1,19 @@
+{
+    "name": "eu/miniframework",
+    "description": "description",
+    "require": {
+        "php" : ">=7.0"
+    },
+    "authors": [
+        {
+            "name": "Humberto Júnior",
+            "email": "hjunior854@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/",
+            "MF\\": "vendor/MF/"
+        }
+    }
+}
