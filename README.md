@@ -1,7 +1,5 @@
 # Mini Framework MVC - PHP
 
-![Mini Framework Logo]
-
 ## Visão Geral
 
 O Mini Framework MVC é uma estrutura leve para desenvolvimento web em PHP, projetada para facilitar a criação de aplicativos web robustos e escaláveis. Este framework adota o padrão MVC (Model-View-Controller) para separar a lógica de negócios, a interface do usuário e o controle de forma organizada e eficiente.
